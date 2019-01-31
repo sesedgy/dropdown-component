@@ -1,0 +1,34 @@
+.mdc-select {
+    width: 200px;
+}
+
+.mdc-select > select > option {
+    display: none;
+}
+
+.dropdown-menu_cancel-icon {
+    position: relative;
+    right: 30px;
+    cursor: pointer;
+    color: #6A6A6A;
+}
+
+.dropdown-menu_cancel-icon:hover {
+    color: #4f4f4f;
+}
+
+.dropdown-menu_cancel-icon:active {
+    color: #1e1e1e;
+}
+
+.dropdown-menu_menu {
+    width: 200px;
+}
+
+.dropdown-menu_menu_list-item {
+    cursor: pointer;
+}
+
+.delete-btn {
+    background-image: none !important;
+}
